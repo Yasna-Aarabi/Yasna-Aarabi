@@ -1,3 +1,4 @@
+![logo](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 <h1 align="center">Hi everyone <img width="40px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif">, My name is Yasna</h1>
 <h3 align="center">🚀 Enthusiastic Front-End learner 🚀</h3>
 
