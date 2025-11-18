@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="40px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif">, My name is Yasna</h1>
+<h1 align="center">Hi everyone <img width="40px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif">, My name is Yasna</h1>
 <h3 align="center">🚀 Enthusiastic Front-End learner 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasna-aarabi&label=Profile%20views&color=0e75b6&style=flat" alt="yasna-aarabi" /> </p>
